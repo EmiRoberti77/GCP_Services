@@ -192,11 +192,9 @@ This guide walks you through the steps to create a TypeScript Express app, conta
    kubectl get service my-express-app
    ```
    Visit `http://<EXTERNAL-IP>/api`.
-
 ---
-
-Emi Roberti - Happy coding
-
 ## **6. GitHub Repository**
 For the full project setup and Docker image creation, check the GitHub repository:  
 [build_node_server_docker_images](https://github.com/EmiRoberti77/build_node_server_docker_images)
+
+Emi Roberti - Happy coding
