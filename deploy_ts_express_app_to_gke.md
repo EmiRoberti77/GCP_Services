@@ -195,6 +195,8 @@ This guide walks you through the steps to create a TypeScript Express app, conta
 
 ---
 
+Emi Roberti - Happy coding
+
 ## **6. GitHub Repository**
 For the full project setup and Docker image creation, check the GitHub repository:  
 [build_node_server_docker_images](https://github.com/EmiRoberti77/build_node_server_docker_images)
